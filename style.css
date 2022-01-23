@@ -1,0 +1,221 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+height: 0px;
+background-color: rgb(216, 216, 216);
+}
+.header .title{
+color: white;
+text-align: center;
+font-size: 250px;
+padding-top: 20px;
+font-family: 'Syncopate', sans-serif;
+}
+
+.header .logo{
+    margin-right: 800px;
+    width: 236px;
+    margin-left: 70px;
+}
+
+.header .menu{
+    display: inline-block;
+    padding-top: 35px;
+    
+    color: rgb(255, 255, 255);
+    user-select: none;
+}
+.menu div{
+    width: 140px;
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.menu div:hover{
+  
+    color: rgb(32, 168, 121);
+}
+.main{
+height: 100vh;
+background: rgb(8,39,40);
+background: linear-gradient(0deg, rgba(45,253,205,1) 0%, rgba(18,118,139,1)50%,rgba(8,39,40,1) 100% );
+/* background-color: rgb(19, 107, 78); */
+}
+.tasks{
+    height:  300vh;
+    background: rgb(8,39,40);
+    background: linear-gradient(0deg,  rgba(18,118,139,1)0%,rgba(8,39,40,1) 100% );
+    /* background-color: rgb(19, 107, 78); */
+}
+
+.task1{
+    background: rgb(250,255,254);
+background: linear-gradient(270deg, rgba(250,255,254,0) 0%, rgba(0,0,0,1) 100%);
+    height: 80vh;
+    width:85vw;
+    top: 125px;
+    position: relative;
+
+}
+
+.task1 img{
+    position: relative;
+    top: 95px;
+    margin-left: 25px;
+}
+
+.task1txt{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -165px;
+    margin-left: 825px;
+    width: 380px;
+}
+
+
+.task2{
+    background: rgb(250,255,254);
+background: linear-gradient(90deg, rgba(250,255,254,0) 0%, rgba(0,0,0,1) 100%);
+    height: 80vh;
+    width:85vw;
+    top: 35vh;
+    left: 215px;
+    position: relative;
+
+}
+
+.task2 img{
+    position: relative;
+    top: 95px;
+    margin-right: 25px;
+    right: -555px;
+   
+}
+
+.task2txt{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -165px;
+    margin-left: 150px;
+    width: 380px;
+}
+
+.task3{
+    background: rgb(250,255,254);
+background: linear-gradient(270deg, rgba(250,255,254,0) 0%, rgba(0,0,0,1) 100%);
+    height: 80vh;
+    width:85vw;
+    top: 50vh;
+    position: relative;
+}
+
+.task3 img{
+    position: relative;
+    top: 95px;
+    margin-left: 25px;
+}
+.task3txt{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -155px;
+    margin-left: 900px;
+    width: 380px;
+}
+
+.people{
+    height: 635px;
+    background: black;
+    position: relative;
+    top: 443px;
+}
+
+.people .header{
+    position: relative;
+    color: white;
+    font-size: 35px;
+   text-align: center;
+   top: 30px;
+   font-weight: bold;
+}
+
+.faces{
+    margin-top: 85px;
+    margin-left: 50px;
+}
+.faces img{
+    display: inline;
+    margin: 40px;
+}
+.footer{
+    height: 200px;
+    background: rgb(0, 8, 31);
+    position: relative;
+    top: 443px;
+}
+
+.header .title2{
+    color: white;
+text-align: center;
+font-size: 50px;
+padding-top: 30px;
+font-family:  'Montserrat', sans-serif;
+}
+.header .title3{
+    color: white;
+text-align: center;
+font-size: 50px;
+margin-top: -35px;
+padding-left: 1109px;
+font-family:  'Montserrat', sans-serif;
+}
+
+.footer img{
+    margin-top: 50px;
+    margin-left: 1300px;
+}
+
+.media{
+    width: 200px;
+    color: white;
+    font-size: 19px;
+    margin-left: 100px;
+margin-top: -50px;
+}
+
+a{
+    color: white;
+    width: 200px;
+    display: unset;
+}
+
+.labels{
+    margin-left: 52px; 
+
+}
+.label{
+color: white;
+display: inline-block;
+margin-left: 45px;
+margin-right: 45px;
+width: 140px;
+text-align: center;
+}
+
+.faces2{
+    /* margin-top: 85px; */
+    margin-left: 170px;
+}
+.faces2 img{
+    display: inline;
+    margin: 40px;
+}
+
+.labels2{
+    margin-left: 175px; 
+
+}
